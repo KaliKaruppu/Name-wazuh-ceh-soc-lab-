@@ -45,6 +45,17 @@ This lab demonstrates SOC analyst skills including:
 - Log analysis
 - Incident response
 - SIEM rule tuning
+# 🛡️ Wazuh SOC + CEH Attack Detection Lab
+
+## 📌 Overview
+This project is a Security Operations Center (SOC) simulation built using Wazuh SIEM.  
+It demonstrates real-world attack detection using Kali Linux (attacker) and Rocky Linux (victim).
+
+The lab is aligned with CEH practical-level cybersecurity concepts.
+
+---
+
+## 🧱 Architecture
 
 ---
 
